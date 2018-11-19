@@ -21,7 +21,7 @@
     "test": "test"
   },
   "dependencies": {
-    "sortablejs": "^1.7.0"
+    "sortablejs": "git+https://github.com/yak80/Sortable.git#de19b7e9167da627a036c503d2d748e7a5718529"
   },
   "devDependencies": {
     "babel-plugin-transform-object-assign": "^6.22.0",
